@@ -1,2 +1,2 @@
 # Xi-note
-基于Vue2全家桶+less+axios+ECharts+cropper.js+node.js+express+mysql，实现一个Web日期记事本项目
+一个前后端分离的记事本项目,前端 vuejs,后端 express, 数据库 mysql。 前端使用axios请求进行对数据库的CURD操作
