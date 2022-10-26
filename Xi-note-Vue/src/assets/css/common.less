@@ -1,0 +1,73 @@
+// 公共属性配置
+
+// 主题色
+@theme-color: #6089e1;
+// 悬浮色
+@hover-color:#4b567814;
+
+// 公共样式配置
+
+// flex设置
+.flex {
+  display: flex;
+  align-items: center;
+}
+
+.flex-column {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+// 按钮公共样式
+  button {
+    width: 7rem;
+    height: 2rem;
+    background-color: @theme-color;
+    opacity: 0.8;
+    color: #fff;
+    border-radius: 0.8rem;
+    transition: all .1s ease-out;
+  }
+  button:hover {
+    opacity: 1;
+  }
+
+// 内容卡公共样式
+.card(@h:10rem) {
+  min-height: @h;
+  border-radius: 16px;
+  background-color: #fff;
+}
+
+// 标题字体
+.title-font(@size:1.7rem) {
+  font-size: @size;
+  font-weight: 800;
+  font-family: "微软雅黑";
+}
+
+// 二级标题字体
+.h3-font(@size:1.4rem) {
+  font-size: @size;
+  font-weight: 700;
+  font-family: "微软雅黑";
+}
+
+// 提示字体
+.remind-font(@size:14px) {
+  font-size: @size;
+  line-height: 20px;
+  color: #bbb;
+}
+
+// logo样式
+  #logo {
+    background-color: @hover-color;
+    margin-right: .5rem;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+    box-shadow: inset 2px 2px 5px #aaa;
+  }
