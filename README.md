@@ -12,4 +12,9 @@
 * 支持用户的注册与登录
 * 支持用户资料更改及头像裁剪后更改
 
-![Login](https://user-images.githubusercontent.com/100354222/197925194-5f49028e-11ff-43b4-a52d-5e53b7124cfe.gif)
+## 项目预览
+
+### 1.登录页
+![d93jl-c43gs](https://user-images.githubusercontent.com/100354222/197929993-d4092b96-80b3-49ca-96af-dcb89f0cfbaf.gif)
+
+### 2.主页
