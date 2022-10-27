@@ -29,4 +29,4 @@
 
 ## 安装
 前端安装：
-'``` git```'
+'``` git clone https://github.com/W-catnip/Xi-note.git //将代码克隆到本地```'
