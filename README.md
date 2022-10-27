@@ -27,4 +27,6 @@
 ### 4.设置页
 ![h1ws0-l1a66](https://user-images.githubusercontent.com/100354222/197969250-77250323-ea49-4dd3-b0d1-a9fb812ca0ea.gif)
 
-## 
+## 安装
+前端安装：
+'``` git```'
